@@ -1,4 +1,4 @@
-this is just to test my git skill which started just now :P 
+this is just to test my git skill which started two commits ago :P 
 
 now that the first push for the test.txt is done
 lets try editing/updating the same file
